@@ -1,15 +1,15 @@
 # Contribution [#]: [Issue Title]
 
 **Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
+**Student:** Victor
+**Issue:** [[GitHub issue link] ](https://github.com/skiptools/skip-ui/issues/267) 
 **Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+Thought processI picked this issue because it sits at the intersection of SwiftUI and Android — two platforms I've already spent time on separately. I've built apps with SwiftUI and Flutter, so I understand how formatted input works on the iOS side, but I've never had a reason to dig into how a transpiler bridges that to Kotlin and Jetpack Compose under the hood. That's exactly what makes this interesting to me.
 
 ---
 
