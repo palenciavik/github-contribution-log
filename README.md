@@ -7,7 +7,7 @@
 
 **Issue:** [[GitHub issue link] ](https://github.com/skiptools/skip-ui/issues/267) 
 
-**Status:** [Phase I] [In Progress / Complete]
+**Status:** [Phase I] [In Progress]
 
 ---
 
