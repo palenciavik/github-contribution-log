@@ -1,9 +1,12 @@
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
+**Contribution Number:** 1
+
 **Student:** Victor
+
 **Issue:** [[GitHub issue link] ](https://github.com/skiptools/skip-ui/issues/267) 
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+
+**Status:** [Phase I] [In Progress / Complete]
 
 ---
 
